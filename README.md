@@ -6,8 +6,9 @@
     *  執行Jupyter Notebook
     *  建立GitHub並探索GitHub
     *  讀取91APP資料集
-*  回家作業：
+*  回家作業： [week1_hw.ipynb](https://github.com/chloe8599/NTU-CSX-Project/blob/master/week1/week1_hw.ipynb)
     *  嘗試使用 pandas
     *  初步探索91APP資料集
     *  分析及概覽資料集中的各項變數
+    
 
