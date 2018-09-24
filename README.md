@@ -7,7 +7,7 @@
 
 ## Week1(9/11)
 
-* 課堂練習：
+* 課堂練習：[簡報](https://docs.google.com/presentation/d/e/2PACX-1vTGe5neAcFnEBOwHOIuNdhYROTjGFNd0fMi3VzXYhRpdvhsyHnRjFNSVr91laQvYNDmAdoiTbHtz4DK/pub?start=false&loop=false&delayms=3000&slide=id.p)
     *  安裝Anaconda
     *  執行Jupyter Notebook
     *  建立GitHub並探索GitHub
@@ -19,7 +19,7 @@
 
 ## Week2(9/18)
 
-* 課堂練習：
+* 課堂練習：[簡報](https://docs.google.com/presentation/d/e/2PACX-1vSDsg-EWsuITt5xV2VKmXpM5r70krVJf6zrh_6IeUpAhGZyRTF8kw3c0rizUHzMNtlLMQit-oQHB4vj/pub?start=false&loop=false&delayms=3000&slide=id.g4273d10c0f_0_0)
     *  爬取氣象資料(降雨量、溫度)
     *  將爬取到的氣象資料，任意選擇一個地區，透過日期對應，合併出91APP消費金額與氣象的整合資料
     *  新資料欄位：SalesOrderSlaveDateTime、SalesOrderTotalPayment、【降雨量、溫度】
