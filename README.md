@@ -26,3 +26,10 @@
 *  課後作業： [week2_hw.ipynb](https://github.com/chloe8599/NTU-CSX-Project/blob/master/week2/week2_hw.ipynb)
     *  請自選網站，透過爬蟲城市，將91app資料，新增一項以上的外部欄位
     *  寫一支591租屋網的爬蟲，以比較不同區域的租屋數量與91app資料的關係
+
+## Week3(9/25)
+* 課堂練習：[簡報](https://docs.google.com/presentation/d/e/2PACX-1vS9pgNN-SvlN6dxj8A9bkdDTCwrEp-DBCLZtI0VqPW21Fu5imFYh9aTeli7lbuf5LeAHhWMKyoEvjMI/pub?start=false&loop=false&delayms=3000&slide=id.g4273d10c0f_0_0)
+    *  完成第一個資料視覺化任務
+    *  使用任意畫圖包畫出 星期幾v.s.銷量的bar chart
+*  課後作業： 
+    *  請自行定義特殊族群，畫出此族群隨時間變化的消費狀況
