@@ -33,3 +33,12 @@
     *  使用任意畫圖包畫出 星期幾v.s.銷量的bar chart
 *  課後作業：  [week3_hw.ipynb](https://github.com/chloe8599/NTU-CSX-Project/blob/master/week3/week3_hw.ipynb)
     *  請自行定義特殊族群，畫出此族群隨時間變化的消費狀況
+## Week(10/2)
+* 課堂練習：[簡報](https://docs.google.com/presentation/d/e/2PACX-1vQNPNIqQkWhCllEQQJLEbKxv4PkiXkyQ_iVBicfz10xApt2LgFAWbLwzfYCUuPyJs9kQsghahCWdh44/pub?start=false&loop=false&delayms=3000&slide=id.g4273d10c0f_0_0)
+    * 財報：[東元](https://github.com/NTU-CSX-Project/107-1PythonSampleCode/blob/master/week_4/Reports/1504%202017%20%E6%9D%B1%E5%85%83.pdf)
+    * 完成第一個會計財報文字【附註】詞頻統計
+    * 將文字詞頻統計結果做成文字雲、長條圖
+    * 回答會計財報的體質狀況
+*  課後作業：  
+    * 閱讀論文[TextMining_Disclosures](https://github.com/NTU-CSX-Project/107-1PythonSampleCode/blob/master/week_4/1_TextMining_Disclosures.pdf)完成閱讀報告
+    * 報告課後作業成果與閱讀報告
