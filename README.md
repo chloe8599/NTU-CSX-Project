@@ -39,6 +39,6 @@
     * 完成第一個會計財報文字【附註】詞頻統計
     * 將文字詞頻統計結果做成文字雲、長條圖
     * 回答會計財報的體質狀況
-*  課後作業：  
+*  課後作業： [week4_hw.ipynb](https://github.com/chloe8599/NTU-CSX-Project/blob/master/week4/week4_hw.ipynb)
     * 閱讀論文[TextMining_Disclosures](https://github.com/NTU-CSX-Project/107-1PythonSampleCode/blob/master/week_4/1_TextMining_Disclosures.pdf)完成閱讀報告
     * 報告課後作業成果與閱讀報告
