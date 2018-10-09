@@ -45,4 +45,5 @@
 ## Week5(10/9)
 * 課堂練習：[簡報](https://docs.google.com/presentation/d/e/2PACX-1vSeR45V3VruiYltqHetgqwUb3iiEKqUbEXVtptQb4qHVM602ZDNm-Uvkfe35kHyGIovd09RpwKcs_hZ/pub?start=false&loop=false&delayms=3000&slide=id.g4273d10c0f_0_0)
    * 上台分享論文以及解釋第四周作業成果
-* 課後作業：完成一份使用TF-IDF+資料視覺化作品
+* 課後作業：
+   * 完成一份使用TF-IDF+資料視覺化作品
