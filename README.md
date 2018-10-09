@@ -33,7 +33,7 @@
     *  使用任意畫圖包畫出 星期幾v.s.銷量的bar chart
 *  課後作業：  [week3_hw.ipynb](https://github.com/chloe8599/NTU-CSX-Project/blob/master/week3/week3_hw.ipynb)
     *  請自行定義特殊族群，畫出此族群隨時間變化的消費狀況
-## Week(10/2)
+## Week4(10/2)
 * 課堂練習：[簡報](https://docs.google.com/presentation/d/e/2PACX-1vQNPNIqQkWhCllEQQJLEbKxv4PkiXkyQ_iVBicfz10xApt2LgFAWbLwzfYCUuPyJs9kQsghahCWdh44/pub?start=false&loop=false&delayms=3000&slide=id.g4273d10c0f_0_0)
     * 財報：[東元](https://github.com/NTU-CSX-Project/107-1PythonSampleCode/blob/master/week_4/Reports/1504%202017%20%E6%9D%B1%E5%85%83.pdf)
     * 完成第一個會計財報文字【附註】詞頻統計
@@ -42,3 +42,7 @@
 *  課後作業： [week4_hw.ipynb](https://github.com/chloe8599/NTU-CSX-Project/blob/master/week4/week4_hw.ipynb)
     * 閱讀論文[TextMining_Disclosures](https://github.com/NTU-CSX-Project/107-1PythonSampleCode/blob/master/week_4/1_TextMining_Disclosures.pdf)完成閱讀報告
     * 報告課後作業成果與閱讀[報告](https://github.com/chloe8599/NTU-CSX-Project/blob/master/week4/TextMining_Disclosures.pdf)
+## Week5(10/9)
+* 課堂練習：[簡報](https://docs.google.com/presentation/d/e/2PACX-1vSeR45V3VruiYltqHetgqwUb3iiEKqUbEXVtptQb4qHVM602ZDNm-Uvkfe35kHyGIovd09RpwKcs_hZ/pub?start=false&loop=false&delayms=3000&slide=id.g4273d10c0f_0_0)
+   * 上台分享論文以及解釋第四周作業成果
+* 課後作業：完成一份使用TF-IDF+資料視覺化作品
