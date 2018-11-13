@@ -50,6 +50,6 @@
 ## Week10(11/13)
 * 課堂報告：金融弊案與媒體之關聯——以樂陞案、兆豐洗錢案、永豐金超貸為例
    * [簡報](https://docs.google.com/presentation/d/1RAJIprLEt0kx7IL7OgRfhhVwwmnlriCeydGI9pBe_X0/edit#slide=id.p1)
-   * [ipynb](https://nbviewer.jupyter.org/github/chloe8599/NTU-CSX-Project/blob/master/week10/news.ipynb)
+   * [code](https://nbviewer.jupyter.org/github/chloe8599/NTU-CSX-Project/blob/master/week10/news.ipynb)
    
 
